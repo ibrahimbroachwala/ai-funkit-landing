@@ -2,13 +2,12 @@
 
 ## Privacy Policy for AI Role Play Mobile Application
 
-***
 #### This Privacy Policy describes how your personal information is collected, used, and disclosed when you use the AI Role Play mobile application ("App"). By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
 
 ## ***1. Information We Collect:***
 
 ***1.1.*** 
-Personal Information: When you use the App, we may collect certain personally identifiable information, such as your name, email address, and device information. We only collect this information if you voluntarily provide it to us.
+Personal Information: When you use the App, we may collect certain personally identifiable information, such as your name and email address. We only collect this information if you voluntarily provide it to us when signing in with your Google or Apple social accounts.
 
 ***1.2.*** Chat Interactions: The App may collect and store the content of your chat interactions, including messages exchanged between you and the AI characters. This information is used to improve the App's performance and enhance your user experience.
 
