@@ -131,9 +131,9 @@
   padding-top: var(--dl-space-space-unit);
   border-color: var(--dl-color-gray-500);
   border-width: 0px;
-  padding-left: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
   border-radius: var(--dl-radius-radius-radius8);
-  padding-right: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
   padding-bottom: var(--dl-space-space-unit);
   text-decoration: none;
   background-color: rgb(255, 151, 112);
@@ -489,8 +489,8 @@
     font-family: Poppins;
     font-weight: 400;
     padding-top: var(--dl-space-space-unit);
-    padding-left: var(--dl-space-space-twounits);
-    padding-right: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-unit);
     text-decoration: none;
     background-color: rgb(255, 151, 112);
@@ -675,9 +675,9 @@
     font-family: Poppins;
     font-weight: 400;
     padding-top: var(--dl-space-space-unit);
-    padding-left: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-threeunits);
     border-radius: 10px;
-    padding-right: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-unit);
     text-decoration: none;
     background-color: rgb(255, 151, 112);
@@ -810,8 +810,8 @@
     font-family: Poppins;
     font-weight: 400;
     margin-left: 0px;
-    padding-left: var(--dl-space-space-twounits);
-    padding-right: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-unit);
     padding-top: var(--dl-space-space-unit);
     text-decoration: none;
