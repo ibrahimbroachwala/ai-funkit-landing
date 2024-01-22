@@ -719,6 +719,7 @@
   }
 
   .home-text25 {
+    font-size: 12px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -861,6 +862,7 @@
   }
 
   .home-text25 {
+    font-size: 12px;
     text-align: center;
     margin-bottom: var(--dl-space-space-unit);
   }
