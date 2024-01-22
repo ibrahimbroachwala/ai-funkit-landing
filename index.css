@@ -126,7 +126,7 @@
   box-shadow: 4px 4px 4px 0px #000000;
   transition: 0.3s;
   font-family: "Poppins";
-  font-weight: 300;
+  font-weight: 400;
   margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   border-color: var(--dl-color-gray-500);
@@ -351,7 +351,7 @@
     font-size: 1.5rem;
     box-shadow: 4px 4px 4px 0px #000000;
     font-family: Poppins;
-    font-weight: 300;
+    font-weight: 400;
   }
 
   .home-separator {
@@ -392,7 +392,7 @@
     font-size: 1.5rem;
     box-shadow: 4px 4px 4px 0px #000000;
     font-family: Poppins;
-    font-weight: 300;
+    font-weight: 400;
 
   }
 
@@ -487,7 +487,7 @@
     align-self: center;
     box-shadow: 4px 4px 4px 0px #000000;
     font-family: Poppins;
-    font-weight: 300;
+    font-weight: 400;
     padding-top: var(--dl-space-space-unit);
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -673,7 +673,7 @@
     box-shadow: rgb(0, 0, 0) 4px 4px 4px 0px;
     font-style: normal;
     font-family: Poppins;
-    font-weight: 300;
+    font-weight: 400;
     padding-top: var(--dl-space-space-unit);
     padding-left: var(--dl-space-space-twounits);
     border-radius: 10px;
@@ -808,7 +808,7 @@
     font-style: normal;
     margin-top: var(--dl-space-space-unit);
     font-family: Poppins;
-    font-weight: 300;
+    font-weight: 400;
     margin-left: 0px;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
