@@ -114,8 +114,8 @@
 }
 
 .home-text05 {
-  color: #ff9770;
-  font-weight: 600;
+  color: #000000;
+  font-weight: 400;
 }
 
 .home-text06 {
@@ -187,7 +187,6 @@
   display: flex;
   align-items: center;
   margin-right: 0px;
-
 }
 
 .home-icon2 {
