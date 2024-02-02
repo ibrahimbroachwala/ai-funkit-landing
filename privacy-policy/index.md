@@ -47,6 +47,6 @@ The AI Role Play App is not intended for use by individuals under the age of 13.
 We may update this Privacy Policy from time to time. Any changes will be posted in the App, and the revised Privacy Policy will be effective when posted. It is your responsibility to review the Privacy Policy periodically for any updates.
 
 ## Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or the App's data practices, please contact us at <help@roleplay.lol>
+If you have any questions, concerns, or requests regarding this Privacy Policy or the App's data practices, please contact us at ==<help@roleplay.lol>==
 
 Please note that this Privacy Policy applies solely to the AI Role Play App and does not cover any third-party websites, applications, or services that may be linked or integrated with the App. It is recommended to review the privacy policies of such third-party platforms separately.
