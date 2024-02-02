@@ -40,7 +40,7 @@ Personal Information: When you use the App, we may collect certain personally id
 
 ## Children's Privacy
 
-The AI Role Play App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete the information.
+==The AI Role Play App== is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete the information.
 
 ## Changes to this Privacy Policy
 
