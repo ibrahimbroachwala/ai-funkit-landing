@@ -16,11 +16,14 @@
   flex-direction: row;
 }
 
-.image-row {
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  padding-right: 10px;
+.appstore {
+  margin: 8px;
+  height: 100px;
+}
+
+.playstore {
+  margin: 8px;
+  height: 100px;
 }
 
 
@@ -501,6 +504,21 @@
     justify-content: space-between;
   }
 
+  .button-row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .playstore {
+    margin: 8px;
+    height: 80px;
+  }
+
+  .appstore {
+    margin: 8px;
+    height: 80px;
+  }
+
   .home-text {
     color: rgb(0, 0, 0);
     font-size: 24px;
@@ -634,6 +652,21 @@
   .home-container {
     align-items: center;
     justify-content: flex-start;
+  }
+
+  .button-row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .playstore {
+    margin: 8px;
+    height: 80px;
+  }
+
+  .appstore {
+    margin: 8px;
+    height: 80px;
   }
 
   .home-container01 {
