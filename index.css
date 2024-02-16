@@ -11,6 +11,11 @@
   flex-direction: column;
 }
 
+mark {
+  background-color: rgb(255, 151, 112);
+  color: black;
+}
+
 .button-row {
   display: flex;
   flex-direction: row;
