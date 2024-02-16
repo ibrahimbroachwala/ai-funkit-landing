@@ -23,12 +23,12 @@ mark {
 
 .appstore {
   margin: 8px;
-  height: 100px;
+  height: 80px;
 }
 
 .playstore {
   margin: 8px;
-  height: 100px;
+  height: 80px;
 }
 
 
@@ -516,12 +516,12 @@ mark {
 
   .playstore {
     margin: 8px;
-    height: 80px;
+    height: 64px;
   }
 
   .appstore {
     margin: 8px;
-    height: 80px;
+    height: 64px;
   }
 
   .home-text {
@@ -666,12 +666,12 @@ mark {
 
   .playstore {
     margin: 8px;
-    height: 80px;
+    height: 64px;
   }
 
   .appstore {
     margin: 8px;
-    height: 80px;
+    height: 64px;
   }
 
   .home-container01 {
