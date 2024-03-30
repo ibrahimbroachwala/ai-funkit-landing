@@ -1,10 +1,10 @@
 # Terms and Conditions
 
-#### Welcome to the AI Role Play mobile application ("App"). These terms and conditions ("Terms") govern your use of the App, so please read them carefully before proceeding. By downloading, accessing, or using the App, you agree to comply with and be bound by these Terms. If you do not agree with any of these provisions, you may not use the App.
+#### Welcome to the AI FunKit mobile application ("App"). These terms and conditions ("Terms") govern your use of the App, so please read them carefully before proceeding. By downloading, accessing, or using the App, you agree to comply with and be bound by these Terms. If you do not agree with any of these provisions, you may not use the App.
 
 ## App Description and Purpose
 
-AI Role Play is a mobile application that provides a platform for users to engage in role-playing chat experiences with AI-powered characters. The App allows users to interact with AI chatbots that simulate specific characters and respond based on pre-programmed behaviors and language models.
+AI FunKit is a mobile application that provides a platform for users to engage in role-playing chat experiences with AI-powered characters. The App allows users to interact with AI chatbots that simulate specific characters and respond based on pre-programmed behaviors and language models.
 
 ## User Conduct
 
@@ -52,4 +52,4 @@ AI Role Play is a mobile application that provides a platform for users to engag
 
 These Terms shall be governed by and construed in accordance with the laws of India. Any dispute arising out of or in connection with these Terms or the use of the App shall be subject to the exclusive jurisdiction of the courts located in India.
 
-By using the AI Role Play App, you acknowledge that you have read, understood, and agreed to be bound by these Terms and Conditions. If you do not agree with any of these provisions, please refrain from using the App.
+By using the AI FunKit App, you acknowledge that you have read, understood, and agreed to be bound by these Terms and Conditions. If you do not agree with any of these provisions, please refrain from using the App.

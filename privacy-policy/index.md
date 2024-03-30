@@ -1,8 +1,8 @@
 # Privacy Policy 
 
-## Privacy Policy for AI Role Play Mobile Application
+## Privacy Policy for AI FunKit Mobile Application
 
-#### This Privacy Policy describes how your personal information is collected, used, and disclosed when you use the AI Role Play mobile application ("App"). By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
+#### This Privacy Policy describes how your personal information is collected, used, and disclosed when you use the AI FunKit mobile application ("App"). By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
 
 ## 1.Information We Collect
 
@@ -40,13 +40,13 @@ Personal Information: When you use the App, we may collect certain personally id
 
 ## Children's Privacy
 
-The AI Role Play App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete the information.
+The AI FunKit App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete the information.
 
 ## Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted in the App, and the revised Privacy Policy will be effective when posted. It is your responsibility to review the Privacy Policy periodically for any updates.
 
 ## Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or the App's data practices, please contact us at <help@roleplay.lol>
+If you have any questions, concerns, or requests regarding this Privacy Policy or the App's data practices, please contact us at <tappstudio.in@gmail.com>
 
-Please note that this Privacy Policy applies solely to the AI Role Play App and does not cover any third-party websites, applications, or services that may be linked or integrated with the App. It is recommended to review the privacy policies of such third-party platforms separately.
+Please note that this Privacy Policy applies solely to the AI FunKit App and does not cover any third-party websites, applications, or services that may be linked or integrated with the App. It is recommended to review the privacy policies of such third-party platforms separately.
