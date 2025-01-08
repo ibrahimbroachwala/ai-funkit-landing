@@ -1,6 +1,6 @@
 # Privacy Policy for My Deen
 
-Effective Date: [Insert Date]
+Effective Date: 8th January, 2025
 
 **My Deen** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application, **My Deen** (the "App").
 
@@ -57,7 +57,7 @@ The App may use third-party services for SMS verification or analytics. These se
 
 ## Children's Privacy
 
-The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children.
+The App is not intended for use by individuals under the age of 5. We do not knowingly collect personal information from children.
 
 ## Changes to This Privacy Policy
 
@@ -66,8 +66,7 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-**Email:** [Insert Email Address]  
-**Phone:** [Insert Phone Number]  
+**Email:** tappstudio.in@gmail.com
 
 ---
 

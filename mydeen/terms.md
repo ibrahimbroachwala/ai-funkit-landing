@@ -4,7 +4,7 @@
 
 ## App Description and Purpose  
 
-**My Deen** is a mobile application designed to help users track and develop their religious habits in Islam, such as praying Namaz, making Dua, giving Sadaqa, and more. The App provides features like habit tracking, rewards, and gamification to encourage consistency and personal growth.  
+**My Deen** is a mobile application designed to help users (Specifically Dawoodi Bohra Muslims) track and develop their religious habits in Islam, such as praying Namaz, making Dua, giving Sadaqa, and more. The App provides features like habit tracking, rewards, and gamification to encourage consistency and personal growth.  
 
 ## User Conduct
 
@@ -50,6 +50,6 @@
 
 ## Governing Law and Jurisdiction  
 
-These Terms shall be governed by and construed in accordance with the laws of [Insert Applicable Country or Region]. Any dispute arising out of or in connection with these Terms or the use of the App shall be subject to the exclusive jurisdiction of the courts located in [Insert Applicable Jurisdiction].  
+These Terms shall be governed by and construed in accordance with the laws of India. Any dispute arising out of or in connection with these Terms or the use of the App shall be subject to the exclusive jurisdiction of the courts located in Indian Jurisdiction.  
 
 By using the **My Deen** App, you acknowledge that you have read, understood, and agreed to be bound by these Terms and Conditions. If you do not agree with any of these provisions, please refrain from using the App.  
